@@ -1,0 +1,54 @@
+Configure:
+Install python
+Install Jupiter Network in vs code
+python -m venv myenv
+In VS code go to View > Command Palette> Python: Select Interpreter > Select myenv or the name of the enviroment you selected.
+pip install llama-index
+pip install llama-hub
+pip install openai
+
+
+
+https://github.com/jbergant/LlamaIndexCourse > Github profesor curso
+
+https://gpt-index.readthedocs.io/en/latest/ > documentación Llama index
+
+https://storage.gogleapis.com/ahnotes/assets.zip > 
+
+
+Open source LLMs:
+LLAMA2 > https://ai.meta.com/llama/
+Huggin face > https://huggingface.co/
+Commercial: openAI / anthrop\c (https://www.anthropic.com/)
+
+Context window > token limit
+temperature > randomness of the model's output > 0.8 +random / 0.2 -random (deterministic and focused)
+Hallucinations > make things up > to identify inconsistencies and hallucinations use external knowledge sources, fact-checking tools or curated database to compare generated content with factual info.
+Fine-tunning > process where an already trained model is trained on a smaller/specialized dataset to make it more adept. 
+
+OpenAI Key "Test" > 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
+
+RAG > retrieval Augmented Generation > works with pre-trained LLMs and your own data to generate responses.
+LLamaIndex > Combines LLMs with custom data
+RAG vs Fine Tuning > fine tuning is expensive
+RAG > guide the LLMs with prompts, fact verification, add data without expenses, customize training with your specific business data.
+RAG > Indexing and querying
+RAG > Augmentation of LLM with custom data
+
+LlamaIndex vs LangChain: 
+LI > simple interfcace between LLMs and external sources > strongest for vector embedding and retrieval of data > Data framework
+LC > framework for building and managing LLM-powered applications > more mature for agents and multi-steps chains. > Agent framework
+
+
+llamahub.ai
+
+
+
+
+
+
+
+
+
+
+
