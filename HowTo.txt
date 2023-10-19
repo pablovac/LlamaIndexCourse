@@ -18,7 +18,7 @@ https://storage.gogleapis.com/ahnotes/assets.zip >
 
 Open source LLMs:
 LLAMA2 > https://ai.meta.com/llama/
-Huggin face > https://huggingface.co/
+Huggin face > https://huggingface.co/ > Transformers > https://huggingface.co/docs/transformers/index
 Commercial: openAI / anthrop\c (https://www.anthropic.com/)
 
 Context window > token limit
